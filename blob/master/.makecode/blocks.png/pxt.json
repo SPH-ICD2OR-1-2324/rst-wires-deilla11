@@ -1,0 +1,24 @@
+{
+    "name": "rst-wires-deilla11-blob-master-makecode-blockspng",
+    "dependencies": {
+        "device": "*",
+        "rst-wires-deilla11": "github:sph-icd2or-1-2324/rst-wires-deilla11"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.46",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
